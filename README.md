@@ -124,13 +124,3 @@ npx expo start
 ```
 
 Scan the QR code with **Expo Go** (Android/iOS) or press `a` for Android Emulator / `w` for Web preview.
-
----
-
-## 📽️ Loom / Video Walkthrough Guide (2-3 Minutes)
-
-1. **0:00 - 0:30 (Introduction)**: Briefly present the app, tech stack (React Native + Expo + FastAPI + Gemini 2.5 Flash), and target goals.
-2. **0:30 - 1:15 (Idea Submission & Real AI Score)**: Submit a startup idea (e.g. *QuickKart*), show the real-time AI loading steps, and demonstrate the modal displaying overall score, dimensional breakdown, strengths, and feedback.
-3. **1:15 - 1:50 (Ideas Feed & Upvoting)**: Demonstrate searching, sorting by AI score/votes, expanding "Read More", and upvoting an idea (highlighting single-vote restriction).
-4. **1:50 - 2:20 (Leaderboard)**: Show the top 5 ranking, gold/silver/bronze badges, gradient cards, and toggle between Community Votes & AI Top Scores.
-5. **2:20 - 2:45 (Bonus & Persistence)**: Toggle Dark Mode 🌙, demonstrate share to clipboard, and restart the app to show data persistence via `AsyncStorage`.
